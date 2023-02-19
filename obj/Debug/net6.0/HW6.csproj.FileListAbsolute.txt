@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/Clesson/HW6/bin/Debug/net6.0/HW6
+/Users/macbook/Desktop/Clesson/HW6/bin/Debug/net6.0/HW6.deps.json
+/Users/macbook/Desktop/Clesson/HW6/bin/Debug/net6.0/HW6.runtimeconfig.json
+/Users/macbook/Desktop/Clesson/HW6/bin/Debug/net6.0/HW6.dll
+/Users/macbook/Desktop/Clesson/HW6/bin/Debug/net6.0/HW6.pdb
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.AssemblyInfo.cs
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.dll
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/refint/HW6.dll
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.pdb
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/HW6.genruntimeconfig.cache
+/Users/macbook/Desktop/Clesson/HW6/obj/Debug/net6.0/ref/HW6.dll
